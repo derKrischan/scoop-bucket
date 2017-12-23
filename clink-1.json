@@ -12,6 +12,7 @@
     ],
     "notes": [
         "Run 'clink inject' to start clink on the current cmd",
-        "Run 'clink autorun' to auto start clink"
+        "Run 'clink autorun install' to auto start clink for current user",
+        "See 'clink autorun help' for details"
     ]
 }
