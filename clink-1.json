@@ -2,7 +2,7 @@
     "homepage": "https://mridgers.github.io/clink/",
     "url": "https://github.com/mridgers/clink/releases/download/1.0.0a0/clink-1.0.0a0.0e9734.zip",
     "version": "1.0.0a0",
-    "hash": "8cdc36844d490cf289634ed20ec0a984ee1b1303",
+    "hash": "aa34d43ce977fad59c2be2a32c20238b3a13245bddca46e20699026b02c8979d",
     "extract_dir": "clink_1.0.0a0",
     "checkver": {
         "github": "https://github.com/mridgers/clink/"
